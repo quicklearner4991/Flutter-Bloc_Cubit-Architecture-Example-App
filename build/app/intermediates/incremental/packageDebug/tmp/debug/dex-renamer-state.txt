@@ -1,0 +1,4 @@
+#Fri Dec 03 00:41:14 IST 2021
+base.0=/Users/apple/Documents/flutter_workspace/blocFromZeroToHero-master/\#3 - Flutter Bloc Concepts/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
